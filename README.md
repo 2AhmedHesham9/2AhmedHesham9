@@ -15,12 +15,13 @@
 
 - 📫 How to reach me **ahmedzaitoon4@gmail.com**
 
-- ⚡ Fun fact: **i'm a football lover ♥**
+- ⚡ Fun fact: **i'm a programer**
 
 ### 🛠 &nbsp;Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![LARAVEL](https://stock.unga-group.com/node_modules/laravel-mix/icons/laravel.png)
+![LARAVEL](https://t3.ftcdn.net/jpg/05/83/61/64/240_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg)
+ 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -45,4 +46,4 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledradwan96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2ahmedhesham9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
