@@ -19,8 +19,10 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![LARAVEL](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)
+![DATABASE](https://img.shields.io/badge/-DATABASE-05122A?style=flat&logo=DATABASE)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+![Sql](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)
  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
