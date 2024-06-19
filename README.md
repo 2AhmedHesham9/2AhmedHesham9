@@ -20,7 +20,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![LARAVEL](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDISWFIUp0hbEmOKDGfJK1AI4dTsoUWoeGQ&s))
+![LARAVEL](https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
